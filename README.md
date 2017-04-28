@@ -67,4 +67,3 @@ A Circle and a zoom layoutManager for android RecyclerView<br />
 Android Expandable LayoutManager for RecyclerView<br />
 ![](managerimgs/ExpandLayoutManager.gif)<br /><br /><br />
 
-The idea comes from [https://mp.weixin.qq.com/s/59YLxK8C5IGwwpZ9P8NjZw](https://mp.weixin.qq.com/s/59YLxK8C5IGwwpZ9P8NjZw)
