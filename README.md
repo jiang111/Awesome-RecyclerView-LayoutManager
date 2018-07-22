@@ -71,3 +71,6 @@ Android Expandable LayoutManager for RecyclerView<br />
 fade and shrink the head itemView when scrolling.
 ![](https://github.com/xmuSistone/VegaLayoutManager/raw/master/capture.gif) <br /><br /><br />
 
+##  [flowlayoutmanager](https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager)
+FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget, to layout views in flow style, with support of predictive animations, item per line limit, auto measurement & alignments (left or right)
+![](https://cloud.githubusercontent.com/assets/15362031/15170689/fe3117d6-16fc-11e6-8ffc-3e90b9bf5430.gif)
