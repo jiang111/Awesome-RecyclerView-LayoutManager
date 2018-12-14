@@ -77,7 +77,8 @@ FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget
 
 
 ## [StackCardLayoutManager](https://github.com/amyu/StackCardLayoutManager)
-This project is the movement of a new card type UI for Android
+This project is the movement of a new card type UI for Android <br />
+
 ![](https://github.com/amyu/StackCardLayoutManager/raw/master/sc/screen.gif)
 
 
