@@ -81,4 +81,8 @@ This project is the movement of a new card type UI for Android <br />
 
 ![](https://github.com/amyu/StackCardLayoutManager/raw/master/sc/screen.gif)
 
+## [TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout)
+TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android.<br />
+
+![](https://github.com/MoyuruAizawa/Images/raw/master/TimetableLayout/sample_01.gif?raw=true)
 
