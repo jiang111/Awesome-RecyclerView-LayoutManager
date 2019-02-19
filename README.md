@@ -86,3 +86,12 @@ TimetableLayout is a RecyclerView.LayoutManager to display the timetable for And
 
 ![](https://github.com/MoyuruAizawa/Images/raw/master/TimetableLayout/sample_01.gif?raw=true)
 
+
+## [turn-layout-manager](https://github.com/cdflynn/turn-layout-manager)
+A carousel layout manager for RecyclerView<br />
+
+![](https://github.com/cdflynn/turn-layout-manager/raw/master/app/img/turn_demo.gif?raw=true)
+
+
+
+
