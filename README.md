@@ -100,4 +100,9 @@ customized layoutmanager,let item pile up like stackview/类似最美有物卡�
 ![](https://github.com/HirayClay/StackLayoutManager/raw/master/static/VerticallSLM.gif)
 
 
+## [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android)
+Full aspect ratio grid LayoutManager for Android's RecyclerView
+<br />
+![](https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png)
+
 
