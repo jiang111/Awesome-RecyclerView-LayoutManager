@@ -105,4 +105,8 @@ Full aspect ratio grid LayoutManager for Android's RecyclerView
 <br />
 ![](https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png)
 
+## [CircularLayoutManager](https://github.com/leshchenko/CircularLayoutManager)
+Simple in usage Recycler Layout Manager with circular item positioning.
+<br />
+![](https://github.com/leshchenko/CircularLayoutManager/raw/master/animation.gif)
 
