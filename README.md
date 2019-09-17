@@ -110,3 +110,8 @@ Simple in usage Recycler Layout Manager with circular item positioning.
 <br />
 ![](https://github.com/leshchenko/CircularLayoutManager/raw/master/animation.gif)
 
+
+## [Sticky-LayoutManager](https://github.com/qiujayen/sticky-layoutmanager)
+An android recyclerView sticky item view layout manager library
+<br />
+![](https://github.com/qiujayen/sticky-layoutmanager/raw/master/images/Screenshot_1512376704.png)
