@@ -122,4 +122,10 @@ the library is a loop RecyclerView(expression), can show some effects when displ
 <br />
 ![](https://camo.githubusercontent.com/118c5f6828921f9f7085763d2fe37e7feee5a7ea/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f37326639366362616a773166377971637766306379673230637a306c396e35342e676966)
 
+## [StackLayoutManager](https://github.com/LittleMango/StackLayoutManager)
+A RecyclerView.LayoutManager implementation which provides functionality to show a group of stack view.
+<br />
+![](https://github.com/LittleMango/StackLayoutManager/raw/master/gif/sample1.gif)
+
+
 
