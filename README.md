@@ -130,11 +130,13 @@ A RecyclerView.LayoutManager implementation which provides functionality to show
 
 ## [Circular-Layout-Manager](https://github.com/kapil93/Circular-Layout-Manager)
 <br />
+
 ![](https://github.com/kapil93/Circular-Layout-Manager/raw/master/app/src/main/assets/clm.gif)
 
 
 ## [RecyclerCoverFlow](https://github.com/ChenLittlePing/RecyclerCoverFlow)
 <br />
+
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
 
