@@ -144,4 +144,9 @@ A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item.
 <br />
 ![](https://github.com/CCY0122/FocusLayoutManager/blob/master/pic/gif_hor_2.gif)
 
+## [StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
+Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.
+<br />
+![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif)
+
 
