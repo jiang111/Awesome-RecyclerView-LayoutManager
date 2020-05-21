@@ -149,4 +149,8 @@ Adapter and LayoutManager for Android RecyclerView which enables sticky header p
 <br />
 ![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif)
 
+## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)
+An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin.
+<br />
+![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
