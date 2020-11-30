@@ -154,3 +154,34 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
+
+## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif)
+
+## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)
+
+## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)
+
+## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)
+
+## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)
+
+## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
+
