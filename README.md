@@ -185,3 +185,5 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
 
+[![Stargazers over time](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager.svg)](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager)
+
