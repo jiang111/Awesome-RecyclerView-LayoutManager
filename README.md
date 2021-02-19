@@ -141,3 +141,5 @@ A RecyclerView.LayoutManager implementation which provides functionality to show
 
 ## [StackLayoutManager](https://github.com/DarkionAvey/StackLayoutManager)
 <br />
+
+![](https://raw.githubusercontent.com/DarkionAvey/StackLayoutManager/master/Showcase/gifs/log_decelerate_60_interpolator.webp)
