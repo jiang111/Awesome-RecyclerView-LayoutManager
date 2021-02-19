@@ -139,4 +139,5 @@ A RecyclerView.LayoutManager implementation which provides functionality to show
 
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
-
+## [StackLayoutManager](https://github.com/DarkionAvey/StackLayoutManager)
+<br />
