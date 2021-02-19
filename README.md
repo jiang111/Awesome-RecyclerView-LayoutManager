@@ -139,7 +139,57 @@ A RecyclerView.LayoutManager implementation which provides functionality to show
 
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
+
 ## [StackLayoutManager](https://github.com/DarkionAvey/StackLayoutManager)
 <br />
 
 ![](https://raw.githubusercontent.com/DarkionAvey/StackLayoutManager/master/Showcase/gifs/log_decelerate_60_interpolator.webp)
+
+## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
+A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item.
+<br />
+![](https://github.com/CCY0122/FocusLayoutManager/blob/master/pic/gif_hor_2.gif)
+
+## [StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
+Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning.
+<br />
+![](https://github.com/ShamylZakariya/StickyHeaders/raw/master/readme-assets/video-addressbook.gif)
+
+## [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)
+An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin.
+<br />
+![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
+
+
+## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif)
+
+## [SkidRightLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)
+
+## [SlideLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)
+
+## [PickerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)
+
+## [BannerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)
+
+## [ViewPagerLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
+👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+<br />
+![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
+
+[![Stargazers over time](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager.svg)](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager)
+
