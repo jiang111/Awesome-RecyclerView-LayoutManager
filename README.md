@@ -139,6 +139,12 @@ A RecyclerView.LayoutManager implementation which provides functionality to show
 
 ![](https://github.com/ChenLittlePing/RecyclerCoverFlow/raw/master/gif/demo.gif)
 
+
+## [StackLayoutManager](https://github.com/DarkionAvey/StackLayoutManager)
+<br />
+
+![](https://raw.githubusercontent.com/DarkionAvey/StackLayoutManager/master/Showcase/gifs/log_decelerate_60_interpolator.webp)
+
 ## [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 A Horizontal / vertical scroll RecyclerView-LayoutManager with focus item.
 <br />
