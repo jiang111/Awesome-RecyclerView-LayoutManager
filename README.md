@@ -154,6 +154,10 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 <br />
 ![](https://github.com/Spikeysanju/ZoomRecylerLayout/raw/master/horizontal_scroll.gif)
 
+## [recycler-swipe-stack](https://github.com/kroegerama/recycler-swipe-stack)
+An easy to use helper for RecyclerViews. StackLayoutManager and ItemTouchHelperCallback.
+<br />
+![](https://raw.githubusercontent.com/kroegerama/recycler-swipe-stack/master/design/preview.gif)
 
 ## [EchelonLayoutManager](https://github.com/DingMouRen/LayoutManagerGroup)
 👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
