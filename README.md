@@ -185,5 +185,12 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
 <br />
 ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)
 
+## [LadderLayoutManager](https://github.com/thunderpunch/LadderLayoutManager)
+A card stack effect LayoutManger for android.
+<br />
+|vertical|horizontal|
+|:---:|:---:|
+|![vertical](https://github.com/thunderpunch/LadderLayoutManager/raw/master/gif/vertical.gif)|![horizontal](https://github.com/thunderpunch/LadderLayoutManager/raw/master/gif/horizontal.gif)|
+
 [![Stargazers over time](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager.svg)](https://starchart.cc/jiang111/Awesome-RecyclerView-LayoutManager)
 
